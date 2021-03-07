@@ -5,9 +5,19 @@ h1{
 }
 p{
     text-align: center;
-    color: chocolate;
+    color: #502507;
 }
 .returnNote{
     background-color: #bebdab;
     width: 50%;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+.passValue{
+    background-color: #bebdab;
+    width: 50%;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
 }
