@@ -1,0 +1,13 @@
+h1{
+    font-family: Arial;
+    color: brown;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: chocolate;
+}
+.returnNote{
+    background-color: #bebdab;
+    width: 50%;
+}
