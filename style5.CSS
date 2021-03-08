@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: darkred;
+}
+.comparison{
+    background-color: #bebdab;
+    width: 50%;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+p{
+    text-align: center;
+    color: deeppink;
+}
